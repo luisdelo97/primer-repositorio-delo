@@ -1,0 +1,98 @@
+commit 6b70515ed86cba65a49e427e03768f5041fd25e4
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 11:55:48 2023 -0400
+
+    Amendando otro parrafo
+
+commit c688febe1058629df0edd2871323493ae6530e29
+Merge: 0130624 2df724b
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 11:52:04 2023 -0400
+
+    Resolviendo conflicto de estaciones del año
+
+commit 01306248e3824cf1940c6111e5c14583105c9802
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 11:05:18 2023 -0400
+
+    Agregando estaciones del año con fecha
+
+commit 2df724b0cdfb9b82402e00483b0ae3a7489afa3e
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 11:05:18 2023 -0400
+
+    Agregando las estaciones del año(pero sin inviernoD)
+
+commit 0c1573e7d39c70ae5a1684a379016b89290584da
+Merge: 8155103 d83a5ac
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 10:29:18 2023 -0400
+
+    Resolviendo conflicto merge main/html en el doc index.html
+
+commit d83a5ac7e42308ec57db8e03919a7bbf76589f1d
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 10:21:12 2023 -0400
+
+    Agregando index.js al index.html
+
+commit 8155103adb976dd1c6d7143bc2e2591655979337
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 10:16:08 2023 -0400
+
+    Agregando style.css al index.html
+
+commit 1bab48a5c8362343e754f3b60d7b60cba9fd0af8
+Merge: f8ae80b c1e1456
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 09:22:41 2023 -0400
+
+    Merge branch 'js'
+
+commit c1e1456989fc627c20799666223042086e6b8cbc
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 09:14:40 2023 -0400
+
+    Creando index.js
+
+commit f8ae80b1a804c6c31703c674ad90ec978d5b3c4e
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 09:07:22 2023 -0400
+
+    Crando style.css
+
+commit ded4944b8251d83855f08a66830255a022e4d5d0
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 09:00:34 2023 -0400
+
+    Creando index.html
+
+commit 91b5d46c781fc02c999026514accb48216521e4c
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Thu May 18 21:49:40 2023 -0400
+
+    Ignorar .exe
+
+commit fed32db7ed0f4ff142c2ce8f6a957bad7b3c1a6b
+Author: Luis Delorenzi <120606015+luisdelo97@users.noreply.github.com>
+Date:   Thu May 18 20:24:41 2023 -0400
+
+    Creando mi primera licencia del reporitorio
+
+commit 625ce264f46ca94e0346df2014739884e0dc8219
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Thu May 18 20:15:42 2023 -0400
+
+    Agregando mas contenido al README
+
+commit bd1e3c992400a06b039a6bfb78ca5149823adee4
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Thu May 18 20:01:29 2023 -0400
+
+    Agregando contenido al README con -m
+
+commit 8e7f146838fb70493b90eae66583fb4970db63e5
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Thu May 18 19:53:04 2023 -0400
+
+    Primer commit Luis Delorenzi 😎

@@ -1,0 +1,23 @@
+* 6b70515 Amendando otro parrafo
+*   c688feb Resolviendo conflicto de estaciones del año
+|\  
+| * 2df724b Agregando las estaciones del año(pero sin inviernoD)
+* | 0130624 Agregando estaciones del año con fecha
+|/  
+*   0c1573e Resolviendo conflicto merge main/html en el doc index.html
+|\  
+| * d83a5ac Agregando index.js al index.html
+* | 8155103 Agregando style.css al index.html
+* |   1bab48a Merge branch 'js'
+|\ \  
+| * | c1e1456 Creando index.js
+* | | f8ae80b Crando style.css
+| |/  
+|/|   
+* | ded4944 Creando index.html
+|/  
+* 91b5d46 Ignorar .exe
+* fed32db Creando mi primera licencia del reporitorio
+* 625ce26 Agregando mas contenido al README
+* bd1e3c9 Agregando contenido al README con -m
+* 8e7f146 Primer commit Luis Delorenzi 😎
