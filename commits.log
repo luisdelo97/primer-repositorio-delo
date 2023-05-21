@@ -1,3 +1,115 @@
+commit 406ea7b284f4b0f4413703225f7c1deb5aa3a86c
+Merge: 9844099 533f0e2
+Author: Luis Delorenzi <120606015+luisdelo97@users.noreply.github.com>
+Date:   Sat May 20 22:57:02 2023 -0400
+
+    Merge pull request #1 from luidelor97/readme-luidelor
+    
+    Readme luidelor
+
+commit 533f0e229f06899aecbd51c8eed0b469133256db
+Merge: 124bfcb 9844099
+Author: Luis Delorenzi <120606015+luisdelo97@users.noreply.github.com>
+Date:   Sat May 20 22:56:40 2023 -0400
+
+    Merge branch 'main' into readme-luidelor
+
+commit 124bfcb6471f8803fd42d0e3bb8fca02264a1e93
+Author: Luis Delorenzi 2 <metalucario97@gmail.com>
+Date:   Sat May 20 22:41:45 2023 -0400
+
+    haciendo nejoras al readme del repositorio
+
+commit 9844099555c6ac30f0c7d8f327d28f483946eecc
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Sat May 20 22:07:58 2023 -0400
+
+    test 7
+
+commit 2606f09836a721bf9a1bc8bf2fdc81f289474c00
+Author: Luis Delorenzi <metalucario97@gmail.com>
+Date:   Sat May 20 22:04:23 2023 -0400
+
+    test 6
+
+commit 2d9b1d82e806db00b627545fd1242fdba5f9d6f4
+Author: Luis Delorenzi 2 <metalucario97@gmail.com>
+Date:   Sat May 20 22:03:06 2023 -0400
+
+    test
+
+commit 8c71d6e75f0958fa2ffdb78b5cd73167507a2549
+Author: Luis Delorenzi <metalucario97@gmail.com>
+Date:   Sat May 20 21:46:57 2023 -0400
+
+    test 5
+
+commit 795d4a5da484901314ef03003a54170d55370ea0
+Author: Luis Delorenzi 2 <metalucario97@gmail.com>
+Date:   Sat May 20 21:38:55 2023 -0400
+
+    test 4
+
+commit decfff38ebc12ce1a46c744c4fed45aedfa23734
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Sat May 20 21:34:28 2023 -0400
+
+    test 3
+
+commit 6f819dbe4af63e09c55f60172894f74f4a64272d
+Author: Luis Delorenzi <metalucario97@gmail.com>
+Date:   Sat May 20 21:26:55 2023 -0400
+
+    test 2
+
+commit 813bc5235478466034890dfc02b6f31940afcc3d
+Author: Luis Delorenzi 2 <metalucario97@gmail.com>
+Date:   Sat May 20 21:20:42 2023 -0400
+
+    test 1
+
+commit 7abdc15db75a70a30067d6d2be0b45a2595ddda7
+Author: Luis Delorenzi 2 <metalucario97@gmail.com>
+Date:   Sat May 20 21:09:08 2023 -0400
+
+    test
+
+commit 20ea257ffaf2dda50edafc83b4e50cd46b255ef1
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Sat May 20 17:49:34 2023 -0400
+
+    Agregando cambios al main prueba
+
+commit d4dbbee64d58c039f140aac65b2a95fb8a1cd4c0
+Author: Luis Delorenzi 2 <metalucario97@gmail.com>
+Date:   Sat May 20 17:28:26 2023 -0400
+
+    commit 2
+
+commit 5006e32a6e301a0018f33fbcb3ce46117067e822
+Author: Luis Delorenzi 2 <metalucario97@gmail.com>
+Date:   Sat May 20 13:19:19 2023 -0400
+
+    Cambio de la segunda cuenta de git
+
+commit 530db834121ed35e32a3dc5e2b95893c04170f37
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Sat May 20 00:47:16 2023 -0400
+
+    Agregando git-flow image
+
+commit d365013f991ae5d43b76ac70972fdeff67a5bafc
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Sat May 20 00:20:17 2023 -0400
+
+    v1.0.0
+
+commit da18f2e032e28425afae99b859d10975d804b397
+Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
+Date:   Fri May 19 15:11:56 2023 -0400
+
+    Respaldando logs en el repisitorio
+
 commit 6b70515ed86cba65a49e427e03768f5041fd25e4
 Author: Luis Delorenzi <ldelorenzi@fiuna.edu.py>
 Date:   Fri May 19 11:55:48 2023 -0400
